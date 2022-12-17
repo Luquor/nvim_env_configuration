@@ -32,7 +32,7 @@ return packer.startup(function(use)
     
     use("nvim-lua/plenary.nvim") -- lua function used by other plugins
     
-    use("morhetz/gruvbox") -- colorscheme
+    use("catppuccin/nvim") -- colorscheme
     use("christoomey/vim-tmux-navigator") -- tmux & window navigation 
     use("numToStr/Comment.nvim") -- comments
    
